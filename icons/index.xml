@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Icons on Agency</title>
+    <link>https://example.org/icons/index.xml</link>
+    <description>Recent content in Icons on Agency</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Oct 2016 19:16:04 +0300</lastBuildDate>
+    <atom:link href="https://example.org/icons/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Flat Icons</title>
+      <link>https://example.org/icons/flat-icons/</link>
+      <pubDate>Fri, 21 Oct 2016 19:16:04 +0300</pubDate>
+      
+      <guid>https://example.org/icons/flat-icons/</guid>
+      <description>&lt;article class=&#34;thumb&#34;&gt;
+    &lt;a href=&#34;https://example.org/img/icons/flat-icons/flat-1.jpeg&#34; class=&#34;image&#34;&gt;&lt;img src=&#34;https://example.org/img/icons/flat-icons/flat-1.jpeg&#34; alt=&#34;&#34; style=&#34;height: 100%; width: 100%;&#34; /&gt;&lt;/a&gt;
+    &lt;h2&gt;Magna feugiat lorem&lt;/h2&gt;
+    &lt;p&gt;Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.&lt;/p&gt;
+&lt;/article&gt;
+
+&lt;p&gt;&lt;article class=&#34;thumb&#34;&gt;
+    &lt;a href=&#34;https://example.org/img/icons/flat-icons/flat-2.png&#34; class=&#34;image&#34;&gt;&lt;img src=&#34;https://example.org/img/icons/flat-icons/flat-2.png&#34; alt=&#34;&#34; style=&#34;height: 100%; width: 100%;&#34; /&gt;&lt;/a&gt;
+    &lt;h2&gt;Nisl adipiscing&lt;/h2&gt;
+    &lt;p&gt;Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.&lt;/p&gt;
+&lt;/article&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;article class=&#34;thumb&#34;&gt;
+    &lt;a href=&#34;https://example.org/img/icons/flat-icons/flat-3.jpeg&#34; class=&#34;image&#34;&gt;&lt;img src=&#34;https://example.org/img/icons/flat-icons/flat-3.jpeg&#34; alt=&#34;&#34; style=&#34;height: 100%; width: 100%;&#34; /&gt;&lt;/a&gt;
+    &lt;h2&gt;Tempus aliquam veroeros&lt;/h2&gt;
+    &lt;p&gt;Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.&lt;/p&gt;
+&lt;/article&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;article class=&#34;thumb&#34;&gt;
+    &lt;a href=&#34;https://example.org/img/icons/flat-icons/flat-4.png&#34; class=&#34;image&#34;&gt;&lt;img src=&#34;https://example.org/img/icons/flat-icons/flat-4.png&#34; alt=&#34;&#34; style=&#34;height: 100%; width: 100%;&#34; /&gt;&lt;/a&gt;
+    &lt;h2&gt;Aliquam ipsum sed dolore&lt;/h2&gt;
+    &lt;p&gt;Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.&lt;/p&gt;
+&lt;/article&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;article class=&#34;thumb&#34;&gt;
+    &lt;a href=&#34;https://example.org/img/icons/flat-icons/flat-5.png&#34; class=&#34;image&#34;&gt;&lt;img src=&#34;https://example.org/img/icons/flat-icons/flat-5.png&#34; alt=&#34;&#34; style=&#34;height: 100%; width: 100%;&#34; /&gt;&lt;/a&gt;
+    &lt;h2&gt;Cursis aliquam nisl&lt;/h2&gt;
+    &lt;p&gt;Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.&lt;/p&gt;
+&lt;/article&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;article class=&#34;thumb&#34;&gt;
+    &lt;a href=&#34;https://example.org/img/icons/flat-icons/flat-6.jpeg&#34; class=&#34;image&#34;&gt;&lt;img src=&#34;https://example.org/img/icons/flat-icons/flat-6.jpeg&#34; alt=&#34;&#34; style=&#34;height: 100%; width: 100%;&#34; /&gt;&lt;/a&gt;
+    &lt;h2&gt;Sed consequat phasellus&lt;/h2&gt;
+    &lt;p&gt;Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.&lt;/p&gt;
+&lt;/article&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;article class=&#34;thumb&#34;&gt;
+    &lt;a href=&#34;https://example.org/img/icons/flat-icons/flat-7.jpeg&#34; class=&#34;image&#34;&gt;&lt;img src=&#34;https://example.org/img/icons/flat-icons/flat-7.jpeg&#34; alt=&#34;&#34; style=&#34;height: 100%; width: 100%;&#34; /&gt;&lt;/a&gt;
+    &lt;h2&gt;Mauris id tellus arcu&lt;/h2&gt;
+    &lt;p&gt;Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.&lt;/p&gt;
+&lt;/article&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;article class=&#34;thumb&#34;&gt;
+    &lt;a href=&#34;https://example.org/img/icons/flat-icons/flat-8.jpeg&#34; class=&#34;image&#34;&gt;&lt;img src=&#34;https://example.org/img/icons/flat-icons/flat-8.jpeg&#34; alt=&#34;&#34; style=&#34;height: 100%; width: 100%;&#34; /&gt;&lt;/a&gt;
+    &lt;h2&gt;Nunc vehicula id nulla&lt;/h2&gt;
+    &lt;p&gt;Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.&lt;/p&gt;
+&lt;/article&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;article class=&#34;thumb&#34;&gt;
+    &lt;a href=&#34;https://example.org/img/icons/flat-icons/flat-9.png&#34; class=&#34;image&#34;&gt;&lt;img src=&#34;https://example.org/img/icons/flat-icons/flat-9.png&#34; alt=&#34;&#34; style=&#34;height: 100%; width: 100%;&#34; /&gt;&lt;/a&gt;
+    &lt;h2&gt;Neque et faucibus viverra&lt;/h2&gt;
+    &lt;p&gt;Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.&lt;/p&gt;
+&lt;/article&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Round Icons</title>
+      <link>https://example.org/icons/round-icons/</link>
+      <pubDate>Fri, 21 Oct 2016 19:16:04 +0300</pubDate>
+      
+      <guid>https://example.org/icons/round-icons/</guid>
+      <description>&lt;article class=&#34;thumb&#34;&gt;
+    &lt;a href=&#34;https://example.org/img/icons/round-icons/round-1.png&#34; class=&#34;image&#34;&gt;&lt;img src=&#34;https://example.org/img/icons/round-icons/round-1.png&#34; alt=&#34;&#34; style=&#34;height: 100%; width: 100%;&#34; /&gt;&lt;/a&gt;
+    &lt;h2&gt;Magna feugiat lorem&lt;/h2&gt;
+    &lt;p&gt;Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.&lt;/p&gt;
+&lt;/article&gt;
+
+&lt;p&gt;&lt;article class=&#34;thumb&#34;&gt;
+    &lt;a href=&#34;https://example.org/img/icons/round-icons/round-2.jpeg&#34; class=&#34;image&#34;&gt;&lt;img src=&#34;https://example.org/img/icons/round-icons/round-2.jpeg&#34; alt=&#34;&#34; style=&#34;height: 100%; width: 100%;&#34; /&gt;&lt;/a&gt;
+    &lt;h2&gt;Nisl adipiscing&lt;/h2&gt;
+    &lt;p&gt;Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.&lt;/p&gt;
+&lt;/article&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;article class=&#34;thumb&#34;&gt;
+    &lt;a href=&#34;https://example.org/img/icons/round-icons/round-3.png&#34; class=&#34;image&#34;&gt;&lt;img src=&#34;https://example.org/img/icons/round-icons/round-3.png&#34; alt=&#34;&#34; style=&#34;height: 100%; width: 100%;&#34; /&gt;&lt;/a&gt;
+    &lt;h2&gt;Tempus aliquam veroeros&lt;/h2&gt;
+    &lt;p&gt;Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.&lt;/p&gt;
+&lt;/article&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;article class=&#34;thumb&#34;&gt;
+    &lt;a href=&#34;https://example.org/img/icons/round-icons/round-4.png&#34; class=&#34;image&#34;&gt;&lt;img src=&#34;https://example.org/img/icons/round-icons/round-4.png&#34; alt=&#34;&#34; style=&#34;height: 100%; width: 100%;&#34; /&gt;&lt;/a&gt;
+    &lt;h2&gt;Aliquam ipsum sed dolore&lt;/h2&gt;
+    &lt;p&gt;Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.&lt;/p&gt;
+&lt;/article&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;article class=&#34;thumb&#34;&gt;
+    &lt;a href=&#34;https://example.org/img/icons/round-icons/round-5.jpg&#34; class=&#34;image&#34;&gt;&lt;img src=&#34;https://example.org/img/icons/round-icons/round-5.jpg&#34; alt=&#34;&#34; style=&#34;height: 100%; width: 100%;&#34; /&gt;&lt;/a&gt;
+    &lt;h2&gt;Cursis aliquam nisl&lt;/h2&gt;
+    &lt;p&gt;Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.&lt;/p&gt;
+&lt;/article&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;article class=&#34;thumb&#34;&gt;
+    &lt;a href=&#34;https://example.org/img/icons/round-icons/round-6.jpeg&#34; class=&#34;image&#34;&gt;&lt;img src=&#34;https://example.org/img/icons/round-icons/round-6.jpeg&#34; alt=&#34;&#34; style=&#34;height: 100%; width: 100%;&#34; /&gt;&lt;/a&gt;
+    &lt;h2&gt;Sed consequat phasellus&lt;/h2&gt;
+    &lt;p&gt;Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.&lt;/p&gt;
+&lt;/article&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;article class=&#34;thumb&#34;&gt;
+    &lt;a href=&#34;https://example.org/img/icons/round-icons/round-7.png&#34; class=&#34;image&#34;&gt;&lt;img src=&#34;https://example.org/img/icons/round-icons/round-7.png&#34; alt=&#34;&#34; style=&#34;height: 100%; width: 100%;&#34; /&gt;&lt;/a&gt;
+    &lt;h2&gt;Mauris id tellus arcu&lt;/h2&gt;
+    &lt;p&gt;Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.&lt;/p&gt;
+&lt;/article&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;article class=&#34;thumb&#34;&gt;
+    &lt;a href=&#34;https://example.org/img/icons/round-icons/round-8.jpg&#34; class=&#34;image&#34;&gt;&lt;img src=&#34;https://example.org/img/icons/round-icons/round-8.jpg&#34; alt=&#34;&#34; style=&#34;height: 100%; width: 100%;&#34; /&gt;&lt;/a&gt;
+    &lt;h2&gt;Nunc vehicula id nulla&lt;/h2&gt;
+    &lt;p&gt;Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.&lt;/p&gt;
+&lt;/article&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;article class=&#34;thumb&#34;&gt;
+    &lt;a href=&#34;https://example.org/img/icons/round-icons/round-1.jpg&#34; class=&#34;image&#34;&gt;&lt;img src=&#34;https://example.org/img/icons/round-icons/round-1.jpg&#34; alt=&#34;&#34; style=&#34;height: 100%; width: 100%;&#34; /&gt;&lt;/a&gt;
+    &lt;h2&gt;Neque et faucibus viverra&lt;/h2&gt;
+    &lt;p&gt;Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.&lt;/p&gt;
+&lt;/article&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
